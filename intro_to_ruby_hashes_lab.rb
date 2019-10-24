@@ -1,5 +1,5 @@
 def new_hash
-  {:name =>" "}
+  {:new_hash =>" "}
 end
 
 def my_hash
